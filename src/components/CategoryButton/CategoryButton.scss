@@ -1,0 +1,23 @@
+button {
+  font-size: 1.5rem;
+  margin: {
+    right: 5px;
+    bottom: 20px;
+  }
+  border: {
+    width: medium;
+    radius: 5px;
+  }
+
+  &.clicked {
+    color: #fff;
+    background-color: darkblue;
+    border-color: darkblue;
+  }
+
+  &.unclicked {
+    color: darkblue;
+    background-color: #fff;
+    border-color: darkblue;
+  }
+}

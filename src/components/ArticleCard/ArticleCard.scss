@@ -1,0 +1,23 @@
+.card {
+  height: 300px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  .image {
+    height: 70%;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .title {
+    padding: 5px;
+  }
+
+  .clip {
+    padding: 5px;
+    color: green;
+    align-self: flex-end;
+  }
+}

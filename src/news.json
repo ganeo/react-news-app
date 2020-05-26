@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Marketwatch.com" },
+      "author": "Jacob Passy",
+      "title": "Airlines are on the brink of bankruptcy — what happens to your voucher, travel miles and airline credit card if they go belly up? - MarketWatch",
+      "description": "As some warn about the possibility of airline bankruptcies, consumers could face the loss of those canceled tickets",
+      "url": "https://www.marketwatch.com/story/airlines-are-on-the-brink-of-bankruptcy-what-happens-to-your-voucher-travel-miles-and-airline-credit-card-if-they-go-belly-up-2020-05-13",
+      "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-HE994_airpla_ZG_20190304151911.jpg",
+      "publishedAt": "2020-05-13T04:21:42Z",
+      "content": "The financial horizon looks uncertain for the airline industry. Air travel has largely ground to a halt as people have grown wary about potentially exposing themselves to coronavirus. Many airlines have resorted to flying mostly empty flights although in some… [+6680 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Marketwatch.com" },
+      "author": "Mike Murphy",
+      "title": "Tesla to fully reopen Nevada 'gigafactory': report - MarketWatch",
+      "description": "",
+      "url": "http://www.marketwatch.com/story/tesla-to-fully-reopen-nevada-gigafactory-report-2020-05-13",
+      "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "publishedAt": "2020-05-13T04:02:00Z",
+      "content": "Tesla Inc.\r\n TSLA, \r\n -0.23%\r\nis fully reopening its battery \"gigafactory\" in Nevada, The Verge reported Tuesday night. Citing an email to employees, The Verge reported Tesla workers at the plant east of Reno are being given back-to-work dates, and those not … [+557 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Clickondetroit.com" },
+      "author": "Mara MacDonald",
+      "title": "Do you think you have had COVID-19? Antibody tests are available - WDIV ClickOnDetroit",
+      "description": "You had a mystery virus in January or February that matches a lot of the coronavirus (COVID-19) symptoms and are now curious if you had it.",
+      "url": "https://www.clickondetroit.com/news/local/2020/05/13/do-you-think-you-have-had-covid-19-antibody-tests-are-available/",
+      "urlToImage": "https://www.clickondetroit.com/resizer/8XMhmpMzJ9TIHASoXqDnLoBtCU4=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/05-13-2020/t_8957f23ec6e8400ea01e789d5332b92c_name_image.jpg",
+      "publishedAt": "2020-05-13T03:44:07Z",
+      "content": "DETROIT You had a mystery virus in January or February that matches a lot of the coronavirus (COVID-19) symptoms and are now curious if you had it.\r\nAntibody testing is readily available to see if you had the illness.\r\nRELATED: University of Michigan research… [+620 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Bryan Alexander",
+      "title": "Ryanair passengers must ask permission for toilet access when flights resume in July - USA TODAY",
+      "description": "There are going to be some COVID-19-inspired changes on Ryanair when it resumes flights in July, like passengers must be cleared for bathroom takeoff.",
+      "url": "https://www.usatoday.com/story/travel/flights/2020/05/12/ryanair-toilet-permission-required-passengers-when-flights-resume/3121890001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/05/13/USAT/b3937508-ea7e-4094-bd3d-bee2266a0254-d05_lavatory_04.JPG?crop=1355,762,x1075,y3540&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2020-05-13T03:18:28Z",
+      "content": "The DOT warning comes as travelers have blasted United and other airlines skirting its policies on cash refunds for canceled flights.\r\nUSA TODAY\r\nEuropean budget airline Ryanair aims to restore 40% of its flights July 1, but there will be some significant hea… [+1789 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo.com" },
+      "author": "Alan Boyle",
+      "title": "After positive results in Seattle, COVID-19 vaccine will face key trials this summer, Moderna CEO says - Yahoo Money",
+      "description": "The coronavirus vaccine trial that started out in Seattle is progressing well enough to get onto Food and Drug Administration's fast track for development, with planning well underway for the next two phases of testing. Seattle's Kaiser Permanente Washington …",
+      "url": "https://finance.yahoo.com/news/positive-results-seattle-covid-19-030901515.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/MIroGcliup76nbwRhUFOAw--~B/aD00MTQ7dz02MzA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/geekwire_312/e42c38b800824a8260aa8cda9368b442",
+      "publishedAt": "2020-05-13T03:13:36Z",
+      "content": "The coronavirus vaccine trial that started out in Seattle is progressing well enough to get onto Food and Drug Administrations fast track for development, with planning well underway for the next two phases of testing.\r\nSeattles Kaiser Permanente Washington H… [+4155 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "",
+      "title": "It's not your connection -- Slack is down - Engadget",
+      "description": "For many users Slack is down right now, and there's no word yet on when it will start working again.",
+      "url": "https://www.engadget.com/slack-outage-002738247.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F2385aee0-94b0-11ea-9ab2-88b60ee8e671&client=amp-blogside-v2&signature=ca5465cbfc75730c6d8a81244b032876e067f921",
+      "publishedAt": "2020-05-13T01:02:16Z",
+      "content": "Whether you’re used to working from home or are connecting remotely for pandemic-related reasons, this is not the time to be cut off from your team. Unfortunately, the communication service Slack is suffering a major outage, causing messages to fail and preve… [+386 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Motor1.com" },
+      "author": "Jacob Oliva",
+      "title": "Mercedes Teases New S-Class On The Very Same Day It Leaks - Motor1 ",
+      "description": "It's a camouflaged prototype, though, unlike the leaked images.",
+      "url": "https://www.motor1.com/news/422908/mercedes-teases-s-class-leakage/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/KpAXM/s1/mercedes-s-class-teased.jpg",
+      "publishedAt": "2020-05-13T01:02:05Z",
+      "content": "Following the distraught that the current coronavirus pandemic has been smearing all over the automotive industry, Mercedes-Benz has started to stand on its feet with the resumption of production in its German plant.\r\nDaimler AG, its parent company, announced… [+1416 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fool.com" },
+      "author": "Eric Volkman",
+      "title": "Luckin Coffee Fires CEO and COO - Motley Fool",
+      "description": "The move comes not long after a major accounting scandal broke at the company.",
+      "url": "https://www.fool.com/investing/2020/05/12/luckin-coffee-fires-2-top-executives-including-ceo.aspx",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/574106/spilled-coffee-on-a-rug.jpg",
+      "publishedAt": "2020-05-13T00:30:36Z",
+      "content": "In what can be seen as an inevitable move, Luckin Coffee(NASDAQ:LK) fired the two executives allegedly connected to a recent scandal. The company announced Tuesday that it relieved CEO Jenny Zhiya Qian and COO Jian Liu of their positions. It also demanded, an… [+1594 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Heather Long",
+      "title": "Small business used to define America’s economy. The pandemic could change that forever. - The Washington Post",
+      "description": "More than 100,000 small businesses have closed forever as the nation’s pandemic toll escalates.",
+      "url": "https://www.washingtonpost.com/business/2020/05/12/small-business-used-define-americas-economy-pandemic-could-end-that-forever/",
+      "urlToImage": "https://www.washingtonpost.com/resizer/jidFISREzf0pv8l0tYGIVSzkls0=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/COC33QEQTEI6VEZCUKPHL374SM.jpg",
+      "publishedAt": "2020-05-13T00:13:36Z",
+      "content": "The carnage has been even higher in the restaurant industry, where 3 percent of restaurant operators have gone out of business, according to the National Restaurant Association.\r\nThe awful reason wages appeared to soar in the middle of a pandemic\r\nTearful, he… [+9425 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Youtube.com" },
+      "author": null,
+      "title": "Boeing CEO Says COVID-19 Pandemic Could Force Major U.S. Airline Out Of Business | NBC Nightly News - NBC News",
+      "description": "During an interview with Savannah Guthrie on NBC’s “TODAY,” David Calhoun called the threat to the airline industry “grave.” » Subscribe to NBC News: http://...",
+      "url": "https://www.youtube.com/watch?v=8iseSv4B2mI",
+      "urlToImage": "https://i.ytimg.com/vi/8iseSv4B2mI/maxresdefault.jpg",
+      "publishedAt": "2020-05-13T00:09:52Z",
+      "content": "During an interview with Savannah Guthrie on NBCs TODAY, David Calhoun called the threat to the airline industry grave.» Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC» Watch more NBC video: http://bit.ly/MoreNBCNews\r\nNBC News Digital is a collection… [+850 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Oilprice.com" },
+      "author": "Nick Cunningham",
+      "title": "Has Demand For Oil Already Peaked - OilPrice.com",
+      "description": "As economies begin to reopen, oil prices have begun to show signs of recovery, but demand for crude may never reach its pre-crisis levels",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Has-Demand-For-Oil-Already-Peaked.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-05-12_kfx8zrsea3.jpg",
+      "publishedAt": "2020-05-13T00:00:00Z",
+      "content": "Some oil analysts are warning…\r\nAs one of the most…\r\nU.S. oil producers are cutting…\r\nBy Nick Cunningham - May 12, 2020, 7:00 PM CDTOil prices continue to rise on the prospect of a rebound in fuel demand as economies begin to reopen. But there is a large diff… [+4433 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Foxbusiness.com" },
+      "author": "Suzanne O'Halloran",
+      "title": "Powell, Trump and a negative interest rate tug of war - Fox Business",
+      "description": "Fed Chair Powell will deliver a fresh update on the U.S. economy Wednesday.",
+      "url": "https://www.foxbusiness.com/markets/powell-trump-and-the-negative-interest-rate-tug-of-war",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/Trump-powell-Interest-rates-4.png?ve=1&tl=1",
+      "publishedAt": "2020-05-12T23:57:26Z",
+      "content": "Get all the latest news on coronavirus and more delivered daily to your inbox.  Sign up here.\r\nPresident Trump, who has eased up pressure on Federal Reserve Chair Jerome Powell after a series of rate cuts to combat the coronavirus, may be ready to turn up the… [+2183 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Nwitimes.com" },
+      "author": "Joseph S. Pete joseph.pete@nwi.com, 219-933-3316",
+      "title": "NIPSCO, utilities want to charge customers for lost revenue during pandemic - nwitimes.com",
+      "description": "NIPSCO and other utilities told the state they've suffered financially from lower gas and electricity use and seek to track their coronavirus pandemic losses \"for future recovery.\"",
+      "url": "https://www.nwitimes.com/business/local/nipsco-utilities-want-to-charge-customers-for-lost-revenue-during-pandemic/article_cc4a9804-962c-5c46-9f64-c70a17252e2f.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/c1/bc1ee3b7-dffd-5b58-be3a-36a545a2ff28/5ebb340fe43ea.image.jpg?crop=1764%2C992%2C0%2C90&resize=1120%2C630&order=crop%2Cresize",
+      "publishedAt": "2020-05-12T23:49:40Z",
+      "content": "This action is yet another example of the utilities placing profit over people, said Kerwin Olson, executive director of Citizens Action Coalition. It is disgusting that during these unprecedented times, they are more concerned with quarterly stock reports th… [+1303 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Mercurynews.com" },
+      "author": "Evan Webeck, Rick Hurd",
+      "title": "Coronavirus: Deaths surge in San Mateo County, positive tests plummet in San Francisco - The Mercury News",
+      "description": "Nine new fatalities from COVID-19 in San Mateo County are its most in nearly three weeks, but positive-test rates in San Francisco continue to plummet.",
+      "url": "https://www.mercurynews.com/san-francisco-bay-area-coronavirus-covid-19-cases-deaths-may-12",
+      "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2020/04/TEASER_coronavirus_BAY_AREA-1-2.jpg?w=1024&h=688",
+      "publishedAt": "2020-05-12T23:48:18Z",
+      "content": "Officials in San Mateo County on Tuesday reported the most deaths from COVID-19 in a single day in nearly three weeks.\r\nThere were nine newly reported fatalities on Tuesday, raising the county’s death toll to 65, third-highest in the Bay Area, behind Santa Cl… [+2092 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Youtube.com" },
+      "author": null,
+      "title": "Jim Cramer talks Uber's takeover bid for GrubHub: 'This would be a genius move' - CNBC Television",
+      "description": "\"All day we heard rumors that Uber's about to acquire GrubHub in an all-stock deal that would value the business at roughly $6.25 billion,\" the \"Mad Money\" h...",
+      "url": "https://www.youtube.com/watch?v=bFvhjy1IRqQ",
+      "urlToImage": "https://i.ytimg.com/vi/bFvhjy1IRqQ/hqdefault.jpg",
+      "publishedAt": "2020-05-12T23:21:49Z",
+      "content": "\"All day we heard rumors that Uber's about to acquire GrubHub in an all-stock deal that would value the business at roughly $6.25 billion,\" the \"Mad Money\" host said."
+    },
+    {
+      "source": { "id": null, "name": "Today.com" },
+      "author": "Aly Walansky",
+      "title": "Krispy Kreme, Chipotle and more honor 2020 graduates with food freebies - Today.com",
+      "description": "Krispy Kreme, Jack in the Box, Chipotle and more are giving away free food to people graduating in 2020.",
+      "url": "https://www.today.com/food/krispy-kreme-chipotle-more-honor-2020-graduates-food-freebies-t181451",
+      "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_20/1569045/freebies-and-deals-for-2020-graduates-mainsplit-200508_62cd11db9e8e134e05e049d45d78d157.social_share_1200x630_center.jpg",
+      "publishedAt": "2020-05-12T22:33:00Z",
+      "content": "Graduation ceremonies for high school and college seniors are going to look pretty different this year. Instead of the usual crowds stuffed into auditoriums and stadiums, students all over the country will be tuning into virtual festivities.\r\nWhile nothing ca… [+2215 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investors.com" },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures Fall: Is Coronavirus Stock Market Rally Disconnected From Economic Reality? Watch AMD, ServiceNow, Facebook - Investor's Business Daily",
+      "description": "Dow Jones futures fell, extending Tuesday's sell-off: Is the coronavirus stock market rally divorced from economic reality? That isn't the right question.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coronavirus-stock-market-rally-vs-economic-reality-amd-servicenow-facebook/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/03/stock-bull-bear-corvid19-01-adobe.jpg",
+      "publishedAt": "2020-05-12T22:32:43Z",
+      "content": "Dow Jones futures fell late Tuesday, along with S&amp;P 500 futures and Nasdaq futures, extending Tuesday's sell-off into the close. The coronavirus stock market rally has come a long way from March lows. The Nasdaq is not far from all-time highs, led by Netf… [+11768 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cleveland19.com" },
+      "author": "Jim Nelson",
+      "title": "Shoppers flock to Great Northern Mall in North Olmsted on the first day retail stores reopened - Cleveland 19 News",
+      "description": "An overwhelming, yet cautious feeling of optimism could be felt in North Olmsted on Tuesday as Great Northern Mall reopened on the first day retail business was allowed to resume in Ohio.",
+      "url": "https://www.cleveland19.com/2020/05/12/shoppers-flock-great-northern-mall-north-olmsted-first-day-retail-stores-reopened/",
+      "urlToImage": "https://www.cleveland19.com/resizer/0QxEVvFBJEI3xS_aIf53cWao2y4=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/HK67TVZFHVG4JLYQKUYXLYTWZQ.jpg",
+      "publishedAt": "2020-05-12T22:19:00Z",
+      "content": "NORTH OLMSTED, Ohio (WOIO) - An overwhelming, yet cautious feeling of optimism could be felt in North Olmsted on Tuesday as Great Northern Mall reopened on the first day retail business was allowed to resume in Ohio.\r\nIm happy. I think businesses need to get … [+2168 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Texas sends drug remdesivir to Dallas-Fort Worth hospitals to treat COVID-19 patients - Fort Worth Star-Telegram",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3LnN0YXItdGVsZWdyYW0uY29tL25ld3MvcG9saXRpY3MtZ292ZXJubWVudC9hcnRpY2xlMjQyNjc4NTAxLmh0bWzSAUxodHRwczovL2FtcC5zdGFyLXRlbGVncmFtLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvYXJ0aWNsZTI0MjY3ODUwMS5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-05-12T21:55:43Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Marketwatch.com" },
+      "author": "Shawn Langlois",
+      "title": "Warren Buffett’s ‘outdated view’: One longtime fan is considering dumping his entire Berkshire stake - MarketWatch",
+      "description": "David Merkel has already scaled back his Berkshire Hathaway position",
+      "url": "https://www.marketwatch.com/story/heres-why-one-longtime-warren-buffett-fan-is-considering-dumping-his-entire-stake-in-berkshire-hathaway-2020-05-12",
+      "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-ID586_arends_ZG_20200401175239.jpg",
+      "publishedAt": "2020-05-12T21:24:44Z",
+      "content": "David Merkel, the longtime investor behind the Aleph Blog, still holds a stake in Berkshire Hathaway, but its smaller than it used to be and it could get even smaller. I may sell off the rest of my holdings, he wrote. The question is whether Buffett has an ou… [+2645 chars]"
+    }
+  ]
+}
