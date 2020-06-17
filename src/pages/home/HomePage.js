@@ -11,7 +11,7 @@ import './HomePage.scss'
 export const handleCategoryContext = createContext()
 
 // News APIのAPIキー
-const API = '2c7d89cf94b6413bad934d91e624c489'
+const API = '<APIキー>'
 
 const HomePage = () => {
   const [category, setCategory] = useState(categories[0])
